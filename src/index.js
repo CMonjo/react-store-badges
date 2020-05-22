@@ -37,6 +37,7 @@ const ReactStoreBadges = ({
         width: width,
       }}
       href={url}
+      target='_blank'
     >
       <img 
         src={image[platform]}
